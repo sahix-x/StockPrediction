@@ -1,0 +1,508 @@
+{
+    "news": [
+        {
+            "headline": "These Are The Five Best Stocks To Buy And Watch Now",
+            "ticker": "CIEN"
+        },
+        {
+            "headline": "Scholar Rock Presents New Phase 3 SAPPHIRE Data at the 2025 Muscular Dystrophy Association Clinical & Scientific Conference",
+            "ticker": "SRRK"
+        },
+        {
+            "headline": "Dyne Therapeutics Announces New Long-Term Clinical Data from Phase 1/2 DELIVER Trial of DYNE-251 in Duchenne Muscular Dystrophy Demonstrating Unprecedented and Sustained Functional Improvement Through 18 Months",
+            "ticker": "DYN"
+        },
+        {
+            "headline": "Could Buying Nio Stock Today Set You Up for Life?",
+            "ticker": "NIO"
+        },
+        {
+            "headline": "false",
+            "ticker": "TXN"
+        },
+        {
+            "headline": "Gogoro vs Kymco: Top electric scooter brands battle with new models and pricing plans",
+            "ticker": "GGR"
+        },
+        {
+            "headline": "Alibaba's Tongyi Qianwen poised to redefine China's AI landscape with open-source edge and real-world applications",
+            "ticker": "BABA"
+        },
+        {
+            "headline": "Nvidia Stock Is Down 20%. Is It Time to Buy the Dip on the AI Leader?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Tesla Stock Has Lost More Than a Third of Its Value in 2025: Time to Buy?",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Stocks Poised for Lower Open",
+            "ticker": "COMP"
+        },
+        {
+            "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "ticker": "NFLX"
+        },
+        {
+            "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "ticker": "AMZN"
+        },
+        {
+            "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "ticker": "MSFT"
+        },
+        {
+            "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "ticker": "AAPL"
+        },
+        {
+            "headline": "1 No-Brainer High-Yield Dividend ETF to Buy During the Stock Market Correction",
+            "ticker": "ABBV"
+        },
+        {
+            "headline": "1 No-Brainer High-Yield Dividend ETF to Buy During the Stock Market Correction",
+            "ticker": "SCHW"
+        },
+        {
+            "headline": "UL Solutions to Develop an Advanced Automotive Electromagnetic Compatibility Laboratory in Japan",
+            "ticker": "ULS"
+        },
+        {
+            "headline": "Qifu Technology Announces Fourth Quarter and Full Year 2024 Unaudited Financial Results and Raises Semi-Annual Dividend",
+            "ticker": "QFIN"
+        },
+        {
+            "headline": "This US-based company warns revenue could suffer from anti-American sentiment amid trade war backlash",
+            "ticker": "BYND"
+        },
+        {
+            "headline": "Okta's Profitable Evolution: Why This Identity Leader Has Room to Run",
+            "ticker": "OKTA"
+        },
+        {
+            "headline": "Analyst revamps Palantir stock price target after slump",
+            "ticker": "COMP"
+        },
+        {
+            "headline": "Analyst revamps Palantir stock price target after slump",
+            "ticker": "PLTR"
+        },
+        {
+            "headline": "People are using Google's new AI model to remove watermarks from images",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "People are using Google's new AI model to remove watermarks from images",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "Dell Technologies: A Strong Bull Case with Built-In Safety",
+            "ticker": "DELL"
+        },
+        {
+            "headline": "Broadcom (AVGO)s $90 Billion Opportunity",
+            "ticker": "AVGO"
+        },
+        {
+            "headline": "Is Apple Inc.\u00a0(AAPL) the Best Quality Stock to Invest in Now?",
+            "ticker": "AAPL"
+        },
+        {
+            "headline": "Jim Cramer: Meta (META) Is Strong, but Ad Revenue Is the Only Risk!",
+            "ticker": "META"
+        },
+        {
+            "headline": "Jim Cramer: Microsoft (MSFT) Missed Last Time  Can They Say Anything to Change That?",
+            "ticker": "MSFT"
+        },
+        {
+            "headline": "Jim Cramer: I Think Alphabet (GOOGL) Misses  Google Search Isnt as Effective Anymore!",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "Jim Cramer: I Think Alphabet (GOOGL) Misses  Google Search Isnt as Effective Anymore!",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "Jim Cramer: NVIDIA (NVDA) Is a Great Company  But Zero-Day Traders Have Captured the Stock!",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Musk forced to halt Cybertruck deliveries as parts fall off",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Better Artificial Intelligence (AI) Stock: Palantir Technologies vs. Microsoft",
+            "ticker": "MSFT"
+        },
+        {
+            "headline": "Better Artificial Intelligence (AI) Stock: Palantir Technologies vs. Microsoft",
+            "ticker": "PLTR"
+        },
+        {
+            "headline": "Reddit Will Enable Users to Block Ads From Specific Advertisers",
+            "ticker": "RDDT"
+        },
+        {
+            "headline": "AI Stocks: Tech Giants, Cloud Titans Face 'Show Me' Moment. Nvidia GTC Event On Tap.",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "AI Stocks: Tech Giants, Cloud Titans Face 'Show Me' Moment. Nvidia GTC Event On Tap.",
+            "ticker": "ADBE"
+        },
+        {
+            "headline": "Worried about Tesla stock? Take a deep breath, strategist says",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Nike, Carnival, Micron Technology, Fed Interest Rate, and More to Watch This Week",
+            "ticker": "NKE"
+        },
+        {
+            "headline": "Nike, Carnival, Micron Technology, Fed Interest Rate, and More to Watch This Week",
+            "ticker": "GIS"
+        },
+        {
+            "headline": "Is NVIDIA Corporation (NVDA) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Gladstone Land Corporation (LAND): Among Top Dividend Contenders List",
+            "ticker": "LAND"
+        },
+        {
+            "headline": "The J. M. Smucker Company (SJM): Among Top Dividend Contenders List",
+            "ticker": "SJM"
+        },
+        {
+            "headline": "Bank of America Corporation (BAC): Among Top Dividend Contenders List",
+            "ticker": "BAC"
+        },
+        {
+            "headline": "United Parcel Service, Inc. (UPS): Among Top Dividend Contenders List",
+            "ticker": "UPS"
+        },
+        {
+            "headline": "Philip Morris International Inc. (PM): Among Top Dividend Contenders List",
+            "ticker": "PM"
+        },
+        {
+            "headline": "Comcast Corporation (CMCSA): Among Top Dividend Contenders List",
+            "ticker": "CMCSA"
+        },
+        {
+            "headline": "Merck & Co., Inc. (MRK): Among Top Dividend Contenders List",
+            "ticker": "MRK"
+        },
+        {
+            "headline": "Edison International (EIX): Among Top Dividend Contenders List",
+            "ticker": "EIX"
+        },
+        {
+            "headline": "Best Buy Co., Inc. (BBY): Among Top Dividend Contenders List",
+            "ticker": "BBY"
+        },
+        {
+            "headline": "Problems Continue to Mount for Tesla. Is It Time to Sell the Stock?",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "3 Top Dividend Stocks I Just Bought as the Stock Market Corrected",
+            "ticker": "SBUX"
+        },
+        {
+            "headline": "3 Top Dividend Stocks I Just Bought as the Stock Market Corrected",
+            "ticker": "BX"
+        },
+        {
+            "headline": "3 Top Dividend Stocks I Just Bought as the Stock Market Corrected",
+            "ticker": "VZ"
+        },
+        {
+            "headline": "Tesla and SpaceX Crossed Over on Saturday. Maybe That Can Help the Stock.",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Jim Cramer ON Netflix Inc. (NFLX)  Subscription Revenue? You Should Own Netflix!",
+            "ticker": "NFLX"
+        },
+        {
+            "headline": "Meta (META) Tests Custom AI Training Chip to Reduce Nvidia Dependency",
+            "ticker": "META"
+        },
+        {
+            "headline": "Tesla (TSLA)s AI Future in Focus as Analysts Debate Stock Outlook",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Broadcom (AVGO) Poised for AI Growth as Analysts Call Recent Dip a Buying Opportunity",
+            "ticker": "AVGO"
+        },
+        {
+            "headline": "Apple (AAPL) Delays AI-Powered Siri and Smart Home Hub Rollout",
+            "ticker": "AAPL"
+        },
+        {
+            "headline": "Microsoft (MSFT)s AI-Powered Azure & Copilot Drive Bullish Market Sentiment",
+            "ticker": "MSFT"
+        },
+        {
+            "headline": "Is Amazon.com, Inc. (NASDAQ:AMZN) the Best Delivery Stock to Buy According to Billionaires?",
+            "ticker": "AMZN"
+        },
+        {
+            "headline": "Opinion: Billionaire Stanley Druckenmiller, After Dropping This AI Giant Last Year, Could Be Coming Back to It During the Nasdaq Correction",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Is MicroStrategy Incorporated (MSTR) the Best Cryptocurrency Stock to Buy Now?",
+            "ticker": "MSTR"
+        },
+        {
+            "headline": "Is Trinity Industries, Inc. (TRN) The Best Railroad Stock To Buy Now?",
+            "ticker": "TRN"
+        },
+        {
+            "headline": "Analyst Says NVIDIA (NVDA) Investors Want to Hear Customers Spending Boatloads of Money",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Baidu launches two new versions of its AI model Ernie",
+            "ticker": "BIDU"
+        },
+        {
+            "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "ticker": "COMP"
+        },
+        {
+            "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "ticker": "META"
+        },
+        {
+            "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "ticker": "IBM"
+        },
+        {
+            "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "ticker": "SMCI"
+        },
+        {
+            "headline": "Staying invested long-term can secure your retirement",
+            "ticker": "JPM"
+        },
+        {
+            "headline": "Should You Buy ExxonMobil While It's Below $115?",
+            "ticker": "XOM"
+        },
+        {
+            "headline": "Is Roblox Corporation (RBLX) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "RBLX"
+        },
+        {
+            "headline": "Is Beam Therapeutics Inc. (BEAM) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "BEAM"
+        },
+        {
+            "headline": "Is Monolithic Power Systems, Inc. (MPWR) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "MPWR"
+        },
+        {
+            "headline": "Is AudioEye, Inc. (AEYE) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "AEYE"
+        },
+        {
+            "headline": "Why Canadian Natural Resources Limited (CNQ) Is Gaining This Week?",
+            "ticker": "CNQ"
+        },
+        {
+            "headline": "Jim Cramer on ServiceNow (NOW): It's the One to Watch",
+            "ticker": "NOW"
+        },
+        {
+            "headline": "Jim Cramer Says: Keep an Eye on Eli Lilly and Company (LLY)",
+            "ticker": "LLY"
+        },
+        {
+            "headline": "Jim Cramer Says: This Is the Age of Walmart (WMT) and Costco",
+            "ticker": "WMT"
+        },
+        {
+            "headline": "Jim Cramer Says: This Is the Age of Walmart (WMT) and Costco",
+            "ticker": "COST"
+        },
+        {
+            "headline": "Jim Cramer Says We Have to Keep an Eye on Berkshire Hathaway (BRK-B)",
+            "ticker": "BRK-A"
+        },
+        {
+            "headline": "Jim Cramer on AT&T (T): Ive Been Much More Bullish on Stankey",
+            "ticker": "T"
+        },
+        {
+            "headline": "Jim Cramer Says Chevron (CVX) Has High Yield and a Strong CEO",
+            "ticker": "CVX"
+        },
+        {
+            "headline": "Jim Cramer Says Delta Air Lines (DAL) Is Not That Bad",
+            "ticker": "DAL"
+        },
+        {
+            "headline": "Here's How Nvidia's Incredible AI Success Could Lead to Its Undoing",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "Jim Cramer on United Airlines Holdings (UAL): The Last Bull Markets Been in Travel",
+            "ticker": "UAL"
+        },
+        {
+            "headline": "Jim Cramer: Spotify (SPOT) Is Doing Incredibly Well",
+            "ticker": "SPOT"
+        },
+        {
+            "headline": "Is Meta Platforms, Inc. (META) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "META"
+        },
+        {
+            "headline": "1 No-Brainer Dividend Index Fund to Buy Right Now for Less Than $500",
+            "ticker": "SCHW"
+        },
+        {
+            "headline": "Is Amazon.com Inc. (AMZN) the Best QQQ Stock to Invest in Now?",
+            "ticker": "AMZN"
+        },
+        {
+            "headline": "Is NVIDIA Corp. (NVDA) the Best QQQ Stock to Invest in Now?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+            "ticker": "MSFT"
+        },
+        {
+            "headline": "Is Alphabet Inc. (GOOGL) the Best Stock to Buy According to Seth Klarman?",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "Is Alphabet Inc. (GOOGL) the Best Stock to Buy According to Seth Klarman?",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Nike",
+            "ticker": "COMP"
+        },
+        {
+            "headline": "1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Nike",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Nike",
+            "ticker": "NKE"
+        },
+        {
+            "headline": "The Smartest High-Yield Dividend Stocks to Buy With $100 Right Now",
+            "ticker": "FRT"
+        },
+        {
+            "headline": "The Smartest High-Yield Dividend Stocks to Buy With $100 Right Now",
+            "ticker": "AGNC"
+        },
+        {
+            "headline": "The Smartest High-Yield Dividend Stocks to Buy With $100 Right Now",
+            "ticker": "NNN"
+        },
+        {
+            "headline": "Is Tesla, Inc. (TSLA) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "TSLA"
+        },
+        {
+            "headline": "Blackstone Raises An $8 Billion Fund To Invest In Commercial Real Estate To Buy Debt Portfolios From Banks And Insurance Companies",
+            "ticker": "BX"
+        },
+        {
+            "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+            "ticker": "GOOG"
+        },
+        {
+            "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+            "ticker": "GOOGL"
+        },
+        {
+            "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+            "ticker": "AMZN"
+        },
+        {
+            "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+            "ticker": "META"
+        },
+        {
+            "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+            "ticker": "AAPL"
+        },
+        {
+            "headline": "Shopify Stock: A Millionaire-Maker in the Making?",
+            "ticker": "SHOP"
+        },
+        {
+            "headline": "Is Advanced Micro Devices, Inc. (AMD) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "ticker": "AMD"
+        },
+        {
+            "headline": "3 Struggling Stocks Down More Than 50% This Year That Look Cheap But Come With Plenty of Risk",
+            "ticker": "NVDA"
+        },
+        {
+            "headline": "3 Struggling Stocks Down More Than 50% This Year That Look Cheap But Come With Plenty of Risk",
+            "ticker": "MRVI"
+        }
+    ]
+}

@@ -1,0 +1,401 @@
+{
+    "AAPL": {
+        "headlines": [
+            "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "Is Apple Inc.\u00a0(AAPL) the Best Quality Stock to Invest in Now?",
+            "Apple (AAPL) Delays AI-Powered Siri and Smart Home Hub Rollout",
+            "Trump isn't backing down from Big Tech fights  but is willing to bend on AI"
+        ],
+        "sentiment_scores": [
+            -0.10000000149011612,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "average_sentiment": -0.02500000037252903,
+        "headline_count": 4,
+        "headline_sentiments": [
+            {
+                "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Is Apple Inc.\u00a0(AAPL) the Best Quality Stock to Invest in Now?",
+                "score": 0.0,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "Apple (AAPL) Delays AI-Powered Siri and Smart Home Hub Rollout",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+                "score": 0.0,
+                "magnitude": 0.0
+            }
+        ]
+    },
+    "MSFT": {
+        "headlines": [
+            "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "Jim Cramer: Microsoft (MSFT) Missed Last Time  Can They Say Anything to Change That?",
+            "Better Artificial Intelligence (AI) Stock: Palantir Technologies vs. Microsoft",
+            "Microsoft (MSFT)s AI-Powered Azure & Copilot Drive Bullish Market Sentiment",
+            "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?"
+        ],
+        "sentiment_scores": [
+            -0.10000000149011612,
+            -0.10000000149011612,
+            0.0,
+            -0.5,
+            -0.10000000149011612
+        ],
+        "average_sentiment": -0.16000000089406968,
+        "headline_count": 5,
+        "headline_sentiments": [
+            {
+                "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Jim Cramer: Microsoft (MSFT) Missed Last Time  Can They Say Anything to Change That?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Better Artificial Intelligence (AI) Stock: Palantir Technologies vs. Microsoft",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Microsoft (MSFT)s AI-Powered Azure & Copilot Drive Bullish Market Sentiment",
+                "score": -0.5,
+                "magnitude": 0.5
+            },
+            {
+                "headline": "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.20000000298023224
+            }
+        ]
+    },
+    "GOOGL": {
+        "headlines": [
+            "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+            "People are using Google's new AI model to remove watermarks from images",
+            "Jim Cramer: I Think Alphabet (GOOGL) Misses  Google Search Isnt as Effective Anymore!",
+            "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "Is Alphabet Inc. (GOOGL) the Best Stock to Buy According to Seth Klarman?",
+            "Trump isn't backing down from Big Tech fights  but is willing to bend on AI"
+        ],
+        "sentiment_scores": [
+            -0.10000000149011612,
+            -0.10000000149011612,
+            -0.4000000059604645,
+            0.20000000298023224,
+            0.30000001192092896,
+            -0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "average_sentiment": -0.05000000074505806,
+        "headline_count": 8,
+        "headline_sentiments": [
+            {
+                "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "3 Reasons This Beaten-Down \"Magnificent Seven\" Stock Is a Bargain Buy Right Now",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "People are using Google's new AI model to remove watermarks from images",
+                "score": -0.4000000059604645,
+                "magnitude": 0.4000000059604645
+            },
+            {
+                "headline": "Jim Cramer: I Think Alphabet (GOOGL) Misses  Google Search Isnt as Effective Anymore!",
+                "score": 0.20000000298023224,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+                "score": 0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+                "score": -0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Is Alphabet Inc. (GOOGL) the Best Stock to Buy According to Seth Klarman?",
+                "score": 0.0,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+                "score": 0.0,
+                "magnitude": 0.0
+            }
+        ]
+    },
+    "AMZN": {
+        "headlines": [
+            "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "Is Amazon.com, Inc. (NASDAQ:AMZN) the Best Delivery Stock to Buy According to Billionaires?",
+            "Is Amazon.com Inc. (AMZN) the Best QQQ Stock to Invest in Now?",
+            "Trump isn't backing down from Big Tech fights  but is willing to bend on AI"
+        ],
+        "sentiment_scores": [
+            -0.10000000149011612,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "average_sentiment": -0.02500000037252903,
+        "headline_count": 4,
+        "headline_sentiments": [
+            {
+                "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Is Amazon.com, Inc. (NASDAQ:AMZN) the Best Delivery Stock to Buy According to Billionaires?",
+                "score": 0.0,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Is Amazon.com Inc. (AMZN) the Best QQQ Stock to Invest in Now?",
+                "score": 0.0,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+                "score": 0.0,
+                "magnitude": 0.0
+            }
+        ]
+    },
+    "META": {
+        "headlines": [
+            "Jim Cramer: Meta (META) Is Strong, but Ad Revenue Is the Only Risk!",
+            "Meta (META) Tests Custom AI Training Chip to Reduce Nvidia Dependency",
+            "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "Is Meta Platforms, Inc. (META) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "Trump isn't backing down from Big Tech fights  but is willing to bend on AI"
+        ],
+        "sentiment_scores": [
+            0.0,
+            0.20000000298023224,
+            0.30000001192092896,
+            0.0,
+            0.0
+        ],
+        "average_sentiment": 0.10000000298023223,
+        "headline_count": 5,
+        "headline_sentiments": [
+            {
+                "headline": "Jim Cramer: Meta (META) Is Strong, but Ad Revenue Is the Only Risk!",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Meta (META) Tests Custom AI Training Chip to Reduce Nvidia Dependency",
+                "score": 0.20000000298023224,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+                "score": 0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Is Meta Platforms, Inc. (META) the Best Growth Stock to Invest in for the Next 10 Years?",
+                "score": 0.0,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Trump isn't backing down from Big Tech fights  but is willing to bend on AI",
+                "score": 0.0,
+                "magnitude": 0.0
+            }
+        ]
+    },
+    "NVDA": {
+        "headlines": [
+            "Nvidia Stock Is Down 20%. Is It Time to Buy the Dip on the AI Leader?",
+            "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+            "Jim Cramer: NVIDIA (NVDA) Is a Great Company  But Zero-Day Traders Have Captured the Stock!",
+            "AI Stocks: Tech Giants, Cloud Titans Face 'Show Me' Moment. Nvidia GTC Event On Tap.",
+            "Is NVIDIA Corporation (NVDA) the Best Growth Stock to Invest in for the Next 10 Years?",
+            "Opinion: Billionaire Stanley Druckenmiller, After Dropping This AI Giant Last Year, Could Be Coming Back to It During the Nasdaq Correction",
+            "Analyst Says NVIDIA (NVDA) Investors Want to Hear Customers Spending Boatloads of Money",
+            "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+            "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+            "Here's How Nvidia's Incredible AI Success Could Lead to Its Undoing",
+            "Is NVIDIA Corp. (NVDA) the Best QQQ Stock to Invest in Now?",
+            "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+            "1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Nike",
+            "3 Struggling Stocks Down More Than 50% This Year That Look Cheap But Come With Plenty of Risk"
+        ],
+        "sentiment_scores": [
+            -0.10000000149011612,
+            -0.10000000149011612,
+            0.10000000149011612,
+            0.20000000298023224,
+            0.0,
+            0.0,
+            -0.30000001192092896,
+            0.30000001192092896,
+            -0.30000001192092896,
+            0.0,
+            0.0,
+            -0.10000000149011612,
+            0.0,
+            -0.10000000149011612
+        ],
+        "average_sentiment": -0.028571429529360363,
+        "headline_count": 14,
+        "headline_sentiments": [
+            {
+                "headline": "Nvidia Stock Is Down 20%. Is It Time to Buy the Dip on the AI Leader?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Can This Unstoppable Stock Join Apple, Microsoft, Nvidia, Amazon, Alphabet, and Meta Platforms in the $1 Trillion Club by 2035?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "Jim Cramer: NVIDIA (NVDA) Is a Great Company  But Zero-Day Traders Have Captured the Stock!",
+                "score": 0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            },
+            {
+                "headline": "AI Stocks: Tech Giants, Cloud Titans Face 'Show Me' Moment. Nvidia GTC Event On Tap.",
+                "score": 0.20000000298023224,
+                "magnitude": 0.5
+            },
+            {
+                "headline": "Is NVIDIA Corporation (NVDA) the Best Growth Stock to Invest in for the Next 10 Years?",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Opinion: Billionaire Stanley Druckenmiller, After Dropping This AI Giant Last Year, Could Be Coming Back to It During the Nasdaq Correction",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Analyst Says NVIDIA (NVDA) Investors Want to Hear Customers Spending Boatloads of Money",
+                "score": -0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "2 Bargain \"Magnificent Seven\" Stocks to Ride the AI Investing Wave",
+                "score": 0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Should You Forget Super Micro Computer and Buy 3 Artificial Intelligence (AI) Stocks Right Now?",
+                "score": -0.30000001192092896,
+                "magnitude": 0.30000001192092896
+            },
+            {
+                "headline": "Here's How Nvidia's Incredible AI Success Could Lead to Its Undoing",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Is NVIDIA Corp. (NVDA) the Best QQQ Stock to Invest in Now?",
+                "score": 0.0,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "This Nvidia-Backed AI Start-Up Just Filed for an IPO. Should You Buy The Stock?",
+                "score": -0.10000000149011612,
+                "magnitude": 0.20000000298023224
+            },
+            {
+                "headline": "1 Stock to Buy, 1 Stock to Sell This Week: Nvidia, Nike",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "3 Struggling Stocks Down More Than 50% This Year That Look Cheap But Come With Plenty of Risk",
+                "score": -0.10000000149011612,
+                "magnitude": 0.10000000149011612
+            }
+        ]
+    },
+    "TSLA": {
+        "headlines": [
+            "Tesla Stock Has Lost More Than a Third of Its Value in 2025: Time to Buy?",
+            "Musk forced to halt Cybertruck deliveries as parts fall off",
+            "Worried about Tesla stock? Take a deep breath, strategist says",
+            "Problems Continue to Mount for Tesla. Is It Time to Sell the Stock?",
+            "Tesla and SpaceX Crossed Over on Saturday. Maybe That Can Help the Stock.",
+            "Tesla (TSLA)s AI Future in Focus as Analysts Debate Stock Outlook",
+            "Is Tesla, Inc. (TSLA) the Best Growth Stock to Invest in for the Next 10 Years?"
+        ],
+        "sentiment_scores": [
+            -0.4000000059604645,
+            -0.699999988079071,
+            0.0,
+            -0.20000000298023224,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "average_sentiment": -0.18571428528853826,
+        "headline_count": 7,
+        "headline_sentiments": [
+            {
+                "headline": "Tesla Stock Has Lost More Than a Third of Its Value in 2025: Time to Buy?",
+                "score": -0.4000000059604645,
+                "magnitude": 0.4000000059604645
+            },
+            {
+                "headline": "Musk forced to halt Cybertruck deliveries as parts fall off",
+                "score": -0.699999988079071,
+                "magnitude": 0.699999988079071
+            },
+            {
+                "headline": "Worried about Tesla stock? Take a deep breath, strategist says",
+                "score": 0.0,
+                "magnitude": 0.6000000238418579
+            },
+            {
+                "headline": "Problems Continue to Mount for Tesla. Is It Time to Sell the Stock?",
+                "score": -0.20000000298023224,
+                "magnitude": 0.5
+            },
+            {
+                "headline": "Tesla and SpaceX Crossed Over on Saturday. Maybe That Can Help the Stock.",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Tesla (TSLA)s AI Future in Focus as Analysts Debate Stock Outlook",
+                "score": 0.0,
+                "magnitude": 0.0
+            },
+            {
+                "headline": "Is Tesla, Inc. (TSLA) the Best Growth Stock to Invest in for the Next 10 Years?",
+                "score": 0.0,
+                "magnitude": 0.10000000149011612
+            }
+        ]
+    }
+}
