@@ -32,7 +32,7 @@ DAYS_OF_HISTORY = 60  # Days of historical data to use
 
 # Google Cloud Configuration
 BUCKET_NAME = 'webscraper_bucket'  # Set your bucket name
-SERVICE_ACCOUNT_KEY_PATH = '/home/team24/Desktop/TEAM4/seniment-7fa29e946f1b.json'
+SERVICE_ACCOUNT_KEY_PATH = ''      # Set your service account key
 
 # Create directories if they don't exist
 os.makedirs(DATA_DIR, exist_ok=True)
