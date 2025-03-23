@@ -3,7 +3,6 @@ import numpy as np
 import json
 import os
 import matplotlib
-# Force matplotlib to use a non-interactive backend
 matplotlib.use('Agg')  # This must come before any other matplotlib imports
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
